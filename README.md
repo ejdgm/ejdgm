@@ -1,6 +1,6 @@
 ## Hey, my name is Elijah Jonathan De Guzman!
 
-'''
+```
 def about_me():
     name = "Elijah Jonathan De Guzman"
     course = "Bachelor of Science in Computer Science"
@@ -10,4 +10,4 @@ def about_me():
 if __name__ == "__main__":
     about_me()
 
-'''
+```
