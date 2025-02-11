@@ -1,6 +1,6 @@
 ## Hey, my name is Elijah Jonathan De Guzman!
 
-```
+```python
 def about_me():
     name = "Elijah Jonathan De Guzman"
     course = "Bachelor of Science in Computer Science"
