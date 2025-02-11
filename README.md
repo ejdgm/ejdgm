@@ -1,4 +1,4 @@
-## Hey, my name is Elijah Jonathan De Guzman!
+## Greetings, my name is Elijah Jonathan!
 
 ```python
 def about_me():
@@ -11,7 +11,8 @@ def about_me():
     interests = ["Tech", "Business", "Software Development", "AI", "Community Building"]
 
     Organizations = ["Google Developer Groups on Campus PUP", "AWS Cloud Club PUP", "Microsoft Student Community PUP"]
-    
+
+
 if __name__ == "__main__":
     about_me()
 
