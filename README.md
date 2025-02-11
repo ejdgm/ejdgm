@@ -2,18 +2,14 @@
 
 ```python
 def about_me():
-    name = "Elijah Jonathan De Guzman"
+    Name = "Elijah Jonathan De Guzman"
 
-    course = "Bachelor of Science in Computer Science"
+    Course = "Bachelor of Science in Computer Science"
 
-    school = "Polytechnic University of the Philippines - Manila"
+    School = "Polytechnic University of the Philippines - Manila"
 
-    interests = ["Tech", "Business", "Software Development", "AI", "Community Building"]
+    Interests = ["Tech", "Project Management", "Software Development", "Data Analysis", "Community Building"]
 
     Organizations = ["Google Developer Groups on Campus PUP", "AWS Cloud Club PUP", "Microsoft Student Community PUP"]
-
-
-if __name__ == "__main__":
-    about_me()
 
 ```
